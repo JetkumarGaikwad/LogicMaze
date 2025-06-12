@@ -1,0 +1,10 @@
+What is the square root of 144?
+12
+What number comes next: 2, 4, 8, 16, ?
+32
+What is the ASCII value of 'A'?
+65
+Solve: (12/4) + (18/6) * 3
+11
+If x = 3, y = 4, find x² + y²
+25

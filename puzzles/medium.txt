@@ -1,0 +1,10 @@
+What is 12 * 3?
+36
+Reverse of 'open' is?
+nepo
+What is 25 divided by 5?
+5
+How many sides does a hexagon have?
+6
+What is the binary of 5?
+101

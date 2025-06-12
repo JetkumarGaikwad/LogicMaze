@@ -1,0 +1,6 @@
+What is 5 + 3?
+8
+What color is the sky?
+blue
+What is the capital of India?
+delhi
