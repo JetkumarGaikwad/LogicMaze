@@ -41,3 +41,5 @@ Execute the following commands in your terminal to compile the source code:
 
 ```bash
 g++ src/*.cpp -o LogicMaze
+./LogicMaze
+
